@@ -13,6 +13,6 @@ https://drive.google.com/file/d/11VlbNdC2XpiaMpU_-Wvbb26_F3L_F3HL/view?usp=shari
 }
 ```
 
-Adding image result for Electricity dataset.
+Adding image result for Electricity dataset.<br><br>
 <img src="timeMachinePlusPlusResults.png" width="400"/>
 
