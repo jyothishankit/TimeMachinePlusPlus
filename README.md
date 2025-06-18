@@ -1,6 +1,7 @@
 # <center>TimeMachinePlusPlus</center>
 
 Scaling TimeMachine with 8 Mambas and allow any context lengths in data to be mapped accordingly.
+Greater than SOTA results for Weather and Traffic dataset(~0.2%).
 Detailed report:
 https://drive.google.com/file/d/11VlbNdC2XpiaMpU_-Wvbb26_F3L_F3HL/view?usp=sharing
 
